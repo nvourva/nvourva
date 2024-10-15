@@ -1,6 +1,4 @@
-<div style="background-color:#1c1c1c;">
-
-  <h2 align="left">Hi 👋! My name is Nik Vourvachis and I'm a pixel pusher, from Greece, currently in Malta</h2>
+<h2 align="left">Hi 👋! My name is Nik and I'm a pixel pusher from Greece, currently in Malta</h2>
 
 ###
 
@@ -62,13 +60,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/nvourva/nvourva/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-</div>
